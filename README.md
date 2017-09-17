@@ -1,5 +1,5 @@
 # magento2-lietuviskai-lithuanian
-Lietuviškas Magento 2 vertimas. 2.x versijos kalbos paketas. Tinka visoms Magento 2 versijoms. Išversta ~100%.
+Lietuviškas Magento 2 vertimas - administracija, laiškai, šablonai ir pirkėjo aplinka. 2.x versijos kalbos paketas. Tinka visoms Magento 2 versijoms. Išversta ~100%.
 
 # Instaliacija
 Susikurkite direktorią /app/i18n/Atolodas/lt_LT/.
