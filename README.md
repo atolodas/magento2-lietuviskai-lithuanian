@@ -2,7 +2,7 @@
 Lietuviškas Magento 2 vertimas. 2.x versijos kalbos paketas. Tinka visoms Magento 2 versijoms. Išversta ~100%.
 
 # Instaliacija
-Susikurkite direktorią /app/i18n/atolodas/lt_LT/.
+Susikurkite direktorią /app/i18n/Atolodas/lt_LT/.
 Nusikopijuokite failus.
 Įvykdykite komandas:
 
@@ -12,4 +12,5 @@ php bin/magento cache:clean
 php bin/magento setup:static-content:deploy
 
 # Turite klausimų?
-https://www.kaiptik.lt/sukurti-svetaine?paslauga=magento2-vertimas
+Klauskite [el. paštu](https://www.kaiptik.lt/sukurti-svetaine?paslauga=magento2-vertimas) arba skambinkite +37064685881.
+
