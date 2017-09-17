@@ -12,5 +12,5 @@ php bin/magento cache:clean
 php bin/magento setup:static-content:deploy
 
 # Turite klausimų?
-Klauskite [el. paštu](https://www.kaiptik.lt/sukurti-svetaine?paslauga=magento2-vertimas) arba skambinkite +37064685881.
+Klauskite [el. paštu](https://www.kaiptik.lt/sukurti-svetaine?paslauga=magento2-vertimas).
 
